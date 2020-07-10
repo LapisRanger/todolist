@@ -1,0 +1,32 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">todolist</string>
+
+    <!-- Main -->
+    <string name="action_settings">Settings</string>
+    <string name="action_debug">Debug</string>
+
+    <!-- Debug -->
+    <string name="print_absolute_path">Print absolute path</string>
+    <string name="request_storage_permission">Request Storage Permission</string>
+    <string name="write_to_file">Write to files</string>
+    <string name="write_to_file_hint">Display your content here</string>
+
+    <!-- Note -->
+    <string name="take_a_note">Take a note</string>
+    <string name="confirm">Confirm</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Normal</string>
+    <string name="priority_low">Low</string>
+
+    <string name="button_input">语音输入</string>
+    <string name="app_id">5ef2afbe</string>
+    <string name="button_sa">情感分析</string>
+    <string name="button_ke">关键词提取</string>
+    <string name="_1">音效1</string>
+    <string name="_2">音效2</string>
+    <string name="_3">音效3</string>
+    <string name="_4">音效4</string>
+    <string name="_5">音效5</string>
+    <string name="AudioPicker">请选择默认音效</string>
+</resources>
